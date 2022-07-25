@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 
-<a href = https://medium.com/@lilianmwaura28/data-structures-101-introduction-to-data-structures-and-algorithms-8944bbe5848>Data Structures 101 </a>
+<a href = https://medium.com/@lilianmwaura28/data-structures-101-introduction-to-data-structures-and-algorithms-8944bbe5848> -Data Structures 101 </a>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
